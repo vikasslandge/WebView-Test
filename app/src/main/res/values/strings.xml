@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewTest</string>
+    <string name="html">html</string>
+</resources>
